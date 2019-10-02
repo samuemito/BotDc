@@ -1,0 +1,17 @@
+{
+  "name": "botdc",
+  "version": "1.0.0",
+  "description": "Esse bot é legal",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "keywords": [
+    "!"
+  ],
+  "author": "SMCodes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
